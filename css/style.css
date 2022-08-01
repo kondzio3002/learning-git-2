@@ -22,3 +22,13 @@ body {
     margin-bottom: 26px;
     font-style: italic;
 }
+/* Footer */
+.footer {
+    text-align: center;
+    background: #2d3436;
+    color: azure;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
