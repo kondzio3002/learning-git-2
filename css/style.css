@@ -1,0 +1,24 @@
+/* Global */
+body {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1;
+}
+.container {
+    max-width: 1140px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+/* Contents */
+.contents {
+    display: flex;
+}
+.contents .container {
+    justify-content: center;
+    padding-top: 30px;
+}
+.author {
+    margin-top: -18px;
+    margin-bottom: 26px;
+    font-style: italic;
+}
